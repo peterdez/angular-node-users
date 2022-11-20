@@ -6,7 +6,7 @@
 - Express web server in server.js where we configure CORS, initialize & run Express REST APIs.
 - Next, we add configuration for MongoDB database in models/index.js, create Mongoose data model in models/user.model.js.
 - Created User Controller.
-- Routes for handling all CRUD operations user.routes.js
+- Defined routes for handle all CRUD operations user.routes.js
 
 ###### Angular 14 Client sends HTTP Requests and retrieves HTTP Responses using HTTPClient, consume data on the components. Angular Router is used for navigating to pages.
 - The App component is a container with router-outlet. It has bar that links to routes paths via routerLink.
