@@ -11,6 +11,8 @@
 /angular-users-ui/npm-debug.log
 /angular-users-ui/yarn-error.log
 
+/nodejs-users-app/node_modules
+
 # IDEs and editors
 /angular-users-ui/.idea/
 /angular-users-ui/.project
