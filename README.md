@@ -4,7 +4,7 @@
 ###### Node.js Express exports REST APIs & interacts with MongoDB Database using Mongoose ODM.
 - configuration file exports configuring parameters for MongoDB connection & Mongoose.
 - Express web server in server.js where we configure CORS, initialize & run Express REST APIs.
-- Next, we add configuration for MongoDB database in models/index.js, create Mongoose data model in models/tutorial.model.js.
+- Next, we add configuration for MongoDB database in models/index.js, create Mongoose data model in models/user.model.js.
 - Created User Controller.
 - Routes for handling all CRUD operations user.routes.js
 
