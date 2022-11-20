@@ -12,13 +12,13 @@
 /angular-users-ui/yarn-error.log
 
 # IDEs and editors
-.idea/
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+/angular-users-ui/.idea/
+/angular-users-ui/.project
+/angular-users-ui/.classpath
+/angular-users-ui/.c9/
+/angular-users-ui/*.launch
+/angular-users-ui/.settings/
+/angular-users-ui/*.sublime-workspace
 
 # Visual Studio Code
 .vscode/*
@@ -26,16 +26,16 @@
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-.history/*
+/angular-users-ui/.history/*
 
 # Miscellaneous
-/.angular/cache
-.sass-cache/
-/connect.lock
-/coverage
+/angular-users-ui/.angular/cache
+/angular-users-ui/.sass-cache/
+/angular-users-ui/connect.lock
+/angular-users-ui/coverage
 /libpeerconnection.log
-testem.log
-/typings
+/angular-users-ui/testem.log
+/angular-users-ui/typings
 
 # System files
 .DS_Store
